@@ -54,16 +54,16 @@ html {
   background: #f8f8f8; }
 
 :root {
-  --theme-color-1: #145388;
-  --theme-color-2: #2a93d5;
-  --theme-color-3: #6c90a1;
-  --theme-color-4: #365573;
+  --theme-color-1: #0086ff;
+  --theme-color-2: #8553d0;
+  --theme-color-3: #6ee2d7;
+  --theme-color-4: #fadb71;
   --theme-color-5: #47799a;
   --theme-color-6: #8e9599;
-  --theme-color-1-10: rgba(20, 83, 136, 0.1);
-  --theme-color-2-10: rgba(42, 147, 213, 0.1);
-  --theme-color-3-10: rgba(108, 144, 161, 0.1);
-  --theme-color-4-10: rgba(54, 85, 115, 0.1);
+  --theme-color-1-10: rgba(0, 134, 255, 0.1);
+  --theme-color-2-10: rgba(108, 83, 208, 0.1);
+  --theme-color-3-10: rgba(110, 226, 215, 0.1);
+  --theme-color-4-10: rgba(250, 219, 113, 0.1);
   --theme-color-5-10: rgba(71, 121, 154, 0.1);
   --theme-color-6-10: rgba(142, 149, 153, 0.1);
   --primary-color: #212121;
